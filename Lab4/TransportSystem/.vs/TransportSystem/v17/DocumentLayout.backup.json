@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Games\\TransportSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|d:\\games\\transportsystem\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261D9130-C4B9-4371-B875-C88DD471A140}|WebApplication1\\WebApplication1.csproj|d:\\games\\transportsystem\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{261D9130-C4B9-4371-B875-C88DD471A140}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|d:\\games\\transportsystem\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|d:\\games\\transportsystem\\webapplication2\\controllers\\trainscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\trainscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261D9130-C4B9-4371-B875-C88DD471A140}|WebApplication1\\WebApplication1.csproj|d:\\games\\transportsystem\\webapplication1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261D9130-C4B9-4371-B875-C88DD471A140}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|d:\\games\\transportsystem\\webapplication2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|d:\\games\\transportsystem\\webapplication2\\controllers\\sensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\sensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261D9130-C4B9-4371-B875-C88DD471A140}|WebApplication1\\WebApplication1.csproj|d:\\games\\transportsystem\\webapplication1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261D9130-C4B9-4371-B875-C88DD471A140}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261D9130-C4B9-4371-B875-C88DD471A140}|WebApplication1\\WebApplication1.csproj|d:\\games\\transportsystem\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261D9130-C4B9-4371-B875-C88DD471A140}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261D9130-C4B9-4371-B875-C88DD471A140}|WebApplication1\\WebApplication1.csproj|d:\\games\\transportsystem\\webapplication1\\models\\routestop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261D9130-C4B9-4371-B875-C88DD471A140}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\routestop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261D9130-C4B9-4371-B875-C88DD471A140}|WebApplication1\\WebApplication1.csproj|d:\\games\\transportsystem\\webapplication1\\models\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261D9130-C4B9-4371-B875-C88DD471A140}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261D9130-C4B9-4371-B875-C88DD471A140}|WebApplication1\\WebApplication1.csproj|d:\\games\\transportsystem\\webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261D9130-C4B9-4371-B875-C88DD471A140}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261D9130-C4B9-4371-B875-C88DD471A140}|WebApplication1\\WebApplication1.csproj|d:\\games\\transportsystem\\webapplication1\\models\\viewhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261D9130-C4B9-4371-B875-C88DD471A140}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\viewhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Games\\TransportSystem\\WebApplication2\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication2\\appsettings.json",
+              "ToolTip": "D:\\Games\\TransportSystem\\WebApplication2\\appsettings.json",
+              "RelativeToolTip": "WebApplication2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-26T15:22:00.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrainsController.cs",
+              "DocumentMoniker": "D:\\Games\\TransportSystem\\WebApplication2\\Controllers\\TrainsController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\TrainsController.cs",
+              "ToolTip": "D:\\Games\\TransportSystem\\WebApplication2\\Controllers\\TrainsController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\TrainsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:30:41.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Games\\TransportSystem\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "D:\\Games\\TransportSystem\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T14:55:51.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Games\\TransportSystem\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "D:\\Games\\TransportSystem\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-26T15:24:53.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Games\\TransportSystem\\WebApplication1\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Games\\TransportSystem\\WebApplication1\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA3wCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T01:05:21.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SensorController.cs",
+              "DocumentMoniker": "D:\\Games\\TransportSystem\\WebApplication2\\Controllers\\SensorController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\SensorController.cs",
+              "ToolTip": "D:\\Games\\TransportSystem\\WebApplication2\\Controllers\\SensorController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\SensorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T14:43:31.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Games\\TransportSystem\\WebApplication2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication2\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Games\\TransportSystem\\WebApplication2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication2\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-26T14:49:41.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Games\\TransportSystem\\WebApplication1\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Games\\TransportSystem\\WebApplication1\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T01:14:36.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Games\\TransportSystem\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "D:\\Games\\TransportSystem\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T16:47:54.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ViewHistory.cs",
+              "DocumentMoniker": "D:\\Games\\TransportSystem\\WebApplication1\\Models\\ViewHistory.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ViewHistory.cs",
+              "ToolTip": "D:\\Games\\TransportSystem\\WebApplication1\\Models\\ViewHistory.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ViewHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T17:32:47.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Games\\TransportSystem\\WebApplication1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\User.cs",
+              "ToolTip": "D:\\Games\\TransportSystem\\WebApplication1\\Models\\User.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T17:32:45.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RouteStop.cs",
+              "DocumentMoniker": "D:\\Games\\TransportSystem\\WebApplication1\\Models\\RouteStop.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\RouteStop.cs",
+              "ToolTip": "D:\\Games\\TransportSystem\\WebApplication1\\Models\\RouteStop.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\RouteStop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T13:50:42.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Station.cs",
+              "DocumentMoniker": "D:\\Games\\TransportSystem\\WebApplication1\\Models\\Station.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Station.cs",
+              "ToolTip": "D:\\Games\\TransportSystem\\WebApplication1\\Models\\Station.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Station.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T19:23:59.776Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
