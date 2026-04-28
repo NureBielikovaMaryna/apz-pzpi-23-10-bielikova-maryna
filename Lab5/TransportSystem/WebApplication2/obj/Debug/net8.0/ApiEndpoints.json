@@ -1,0 +1,256 @@
+[
+  {
+    "ContainingType": "WebApplication1.Controllers.SensorController",
+    "Method": "UpdateLocation",
+    "RelativePath": "api/Sensor/update",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trainId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "stationId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "actualTime",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.TrainsController",
+    "Method": "GetAllTrains",
+    "RelativePath": "api/Trains",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.TrainsController",
+    "Method": "DeleteTrain",
+    "RelativePath": "api/Trains/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "role",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.TrainsController",
+    "Method": "AddTrain",
+    "RelativePath": "api/Trains/add-basic",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "number",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "role",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.TrainsController",
+    "Method": "AddStop",
+    "RelativePath": "api/Trains/add-stop-to-route",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trainId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "stationId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "arrival",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "departure",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "order",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "role",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.TrainsController",
+    "Method": "EditNumber",
+    "RelativePath": "api/Trains/edit-number/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "newNumber",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "role",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.TrainsController",
+    "Method": "EditStop",
+    "RelativePath": "api/Trains/schedule/edit-stop/{stopId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "stopId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "newArrival",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "newDeparture",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "newOrder",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "role",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.TrainsController",
+    "Method": "DeleteStation",
+    "RelativePath": "api/Trains/stations/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "role",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.TrainsController",
+    "Method": "GetAllStations",
+    "RelativePath": "api/Trains/stations/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.TrainsController",
+    "Method": "CreateStation",
+    "RelativePath": "api/Trains/stations/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "role",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.TrainsController",
+    "Method": "DeleteStop",
+    "RelativePath": "api/Trains/stop/{stopId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "stopId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "role",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
